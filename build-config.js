@@ -22,7 +22,7 @@ module.exports = {
         '@akilli/ckeditor5-media/src/mediaupload'
     ],
     config: {
-        language: 'de',
+        language: 'tr',
         toolbar: {
             items: [
                 'undo',
